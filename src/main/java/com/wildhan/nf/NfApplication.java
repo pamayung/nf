@@ -1,7 +1,6 @@
 package com.wildhan.nf;
 
 import com.wildhan.nf.core.db.DB;
-import org.flywaydb.core.Flyway;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
